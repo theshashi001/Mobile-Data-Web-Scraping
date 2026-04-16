@@ -228,6 +228,11 @@ bgr.in/gadgets/mobile-phones/[device-name]/
 
 ---
 
+## 👨‍💻 Author
+
+Shashi Tiwari
+
+---
 ## 📄 License
 
 This project is for **educational purposes** only. Respect the terms of service of any website before scraping.
