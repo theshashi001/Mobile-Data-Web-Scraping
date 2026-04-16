@@ -1,5 +1,14 @@
 # 📱 Mobile Data Web Scraping
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-WebScraping-green)
+![Requests](https://img.shields.io/badge/Requests-HTTP-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-yellow?logo=pandas)
+![Scraper](https://img.shields.io/badge/Type-Web%20Scraper-purple)
+![Dataset](https://img.shields.io/badge/Data-Mobile%20Network-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 > A comprehensive comparison of three major Python web scraping frameworks — **Selenium**, **BeautifulSoup**, and **Scrapy** — applied to extract real mobile phone specifications and pricing data from [bgr.in](https://www.bgr.in/).
 
 ---
